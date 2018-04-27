@@ -13,7 +13,7 @@ import java.util.List;
  * LabSix finds different ways one can travel by bus (with a bit of walking)
  * from one bus stop to another.
  */
-public class LabSix {
+public class SGBus {
   /**
    * The main method takes in an argument, a li source bus stop id and
    * the dest bus stop id.  Both must be valid and found in bus-stops.csv.
