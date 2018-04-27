@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * LabSix finds different ways one can travel by bus (with a bit of walking)
+ * This aims to find different ways one can travel by bus (with a bit of walking)
  * from one bus stop to another.
  */
 public class SGBus {
